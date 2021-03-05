@@ -1,6 +1,5 @@
 # Biometric Systems Project
 
-[![CodeFactor](https://www.codefactor.io/repository/github/casalinovalerio/biosys-project/badge)](https://www.codefactor.io/repository/github/casalinovalerio/biosys-project)
 ![GitHub](https://img.shields.io/github/license/casalinovalerio/biosys-project)
 ![GitHub deployments](https://img.shields.io/github/deployments/casalinovalerio/biosys-project/github-pages?label=gh-pages)
 
